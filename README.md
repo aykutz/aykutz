@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp6ZzU5bXBlamxqaG9mN3c0bzhmN3ozdTJvcTh1dzhoODBrMXV0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0iqiPHFdrEctzDKMU/giphy.gif"  />
+<img align="left" height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp6ZzU5bXBlamxqaG9mN3c0bzhmN3ozdTJvcTh1dzhoODBrMXV0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0iqiPHFdrEctzDKMU/giphy.gif"  />
 
 ###
 
@@ -17,20 +17,6 @@
 ###
 
 <img align="right" height="200" src="https://gifdb.com/images/high/electronics-circuit-animation-tvut5c5wj4vu932u.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-</div>
 
 ###
 
