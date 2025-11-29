@@ -4,15 +4,9 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp6ZzU5bXBlamxqaG9mN3c0bzhmN3ozdTJvcTh1dzhoODBrMXV0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0iqiPHFdrEctzDKMU/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&right_color=aqua"  />
+<div align="center">
+  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp6ZzU5bXBlamxqaG9mN3c0bzhmN3ozdTJvcTh1dzhoODBrMXV0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0iqiPHFdrEctzDKMU/giphy.gif"  />
+</div>
 
 ###
 
@@ -20,8 +14,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<h6 align="left">Hi, this is Huseyin Aykut, an Electrical Engineering student. I’m going to turn the Silicon Room YouTube channel into a massive brand. You can check out all my projects on my GitHub page. You might want to reserve your spot before I make it onto the Forbes list you may not get another chance. Stay tuned!</h6>
 
 ###
