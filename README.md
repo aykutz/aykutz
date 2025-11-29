@@ -1,10 +1,18 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=119&section=header&reversal=true&text=SiliconRoom&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&stroke=-&animation=blink&descSize=50&descAlign=80&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=SiliconRoom&fontSize=50&fontColor=FFFF&fontAlign=50&fontAlignY=30&stroke=-&animation=blink&descSize=50&descAlign=80&descAlignY=50&textBg=false&color=random"  />
 </div>
 
 ###
 
-<img align="left" height="200" src="https://gifdb.com/images/high/electronics-circuit-animation-tvut5c5wj4vu932u.gif"  />
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp6ZzU5bXBlamxqaG9mN3c0bzhmN3ozdTJvcTh1dzhoODBrMXV0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0iqiPHFdrEctzDKMU/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://gifdb.com/images/high/electronics-circuit-animation-tvut5c5wj4vu932u.gif"  />
 
 ###
 
@@ -23,12 +31,13 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:maurodesouz?theme=booru-koe&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
+  <img src="https://count.getloli.com/@:maurodesouz?theme=booru-koe&padding=7&scale=1&align=top&pixelated=0&darkmode=1"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
-
