@@ -16,9 +16,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="138" src="https://i.gifer.com/7C7a.gif"  />
+<img align="left" height="232" src="https://i.gifer.com/1ktC.gif"  />
 
 ###
 
