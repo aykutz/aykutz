@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Hi! This is aykutz's place.</h2>
+<h1 align="center">Hi! This is aykutz's place.</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<img align="left" height="232" src="https://i.gifer.com/1ktC.gif"  />
+<img align="right" height="232" src="https://i.gifer.com/1ktC.gif"  />
 
 ###
 
