@@ -8,11 +8,7 @@
 
 <h1 align="center">Hi! This is aykutz's place.</h1>
 
-###
 
-<br clear="both">
-
-<p align="left">Hi, this is Huseyin Aykut. I’m an Electrical Engineering student, and I’m turning the Silicon Room YouTube channel into a big brand. You can check out all my projects on my GitHub page. You’d better secure your spot before I end up on the Forbes list  you may not get another chance. Stay tuned.</p>
 
 ###
 
